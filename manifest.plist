@@ -33,7 +33,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>bundleID</string>
+                    <string>com.paopao.paopaoios</string>
                     <key>bundle-version</key>
                     <string>1.1.8</string>
                     <key>kind</key>
